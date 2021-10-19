@@ -10,7 +10,7 @@ export const projects = [
   {
     title: "Order Tracking Webapp",
     description: "ReactJS + Firebase order tracking web application with Employee login functionality, with live order tracking and CRUD functionality.",
-    image: '/images/2.jpg',
+    image: "https://i.pinimg.com/originals/fc/24/44/fc2444ac00d116935c8deb2accbee3da.jpg",
     tags: ['React', 'JavaScript', 'Firebase'],
     source: 'https://google.com',
     id: 1,
@@ -18,7 +18,7 @@ export const projects = [
   {
     title: "Ecommerce Android App",
     description: "Ecommerce Android app built using Java on android Studio with firebase Backend for small grocery store located in remote region.",
-    image: '/images/3.png',
+    image: "https://i.pinimg.com/originals/89/1f/84/891f84857ac98dc938cd472b1c23a147.jpg",
     tags: ['Java', 'Firebase', 'Android Studio'],
     source: 'https://drive.google.com/drive/u/1/folders/184zX1Ni0fYfznru8KzuO6wWRpNCMyGnv',
     id: 2,
@@ -26,7 +26,7 @@ export const projects = [
   {
     title: "Cotton Disease Prediction App",
     description: "Application built with TransferLearning Model using KerasAPI, implemented on native HTML, CSS, vanillaJS, and Bootstrap4 website.",
-    image: '/images/4.jpeg',
+    image: 'https://i.pinimg.com/originals/28/78/91/28789195a4853b59b53fb5bbc5c6fbcd.jpg',
     tags: ['Transfer Learning','Keras','Python'],
     source: 'https://google.com',
     id: 3,
