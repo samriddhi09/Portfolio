@@ -31,6 +31,14 @@ export const projects = [
     source: 'https://google.com',
     id: 3,
   },
+  {
+    title: "Will Generation App",
+    description: "Secure application built with ReactJS and Google Firebase for user to enter required personal and financial details for Will Generation.",
+    image: 'https://i.pinimg.com/originals/ef/e4/02/efe402aa49dcf676a262988b3f204a11.jpg',
+    tags: ['NextJS','Firebase','Bootstrap'],
+    source: 'https://google.com',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
